@@ -1,0 +1,24 @@
+# Local course materials supplied outside this repository
+.DS_Store
+plan.md
+plan_revised.md
+syllabus.pdf
+1-regression.pdf
+Course Presentation Guideline.pdf
+HD Data.pdf
+
+# Private instructor and presentation materials
+instructor/
+src/
+tests/
+slides/
+
+# Local Python and Jupyter state
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.mplconfig/
+
+# Regenerated outputs
+outputs/
